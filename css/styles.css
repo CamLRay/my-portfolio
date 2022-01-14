@@ -52,3 +52,7 @@ img {
 a {
   text-decoration: none;
 }
+
+.highlight {
+  color: palevioletred;
+}
