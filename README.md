@@ -30,7 +30,7 @@ _This webpage exists to act as a portfolio for future projects developed by Came
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-_MIT license_
-_Feel free to contact me here with ideas. You may also make contributions to the code._ 
+MIT license
+Feel free to contact me here with ideas. You may also make contributions to the code.
 
 Copyright (c) _January 13, 2022_ _Cameron Ray_
