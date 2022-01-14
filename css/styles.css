@@ -41,6 +41,7 @@ text-align: center;
 .projects-con h5 {
   font-size: xx-large;
   margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .projects-con {
@@ -48,6 +49,8 @@ text-align: center;
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
+  margin-bottom: 10px;
+  padding: 0px;
 }
 
 .project-card {
@@ -68,17 +71,29 @@ text-align: center;
 
 a:link {
   text-decoration: none;
+  color:#955E42;
 }
 
-a:visited {
+.projects a:link p {
+  text-decoration: none;
+  color: #9C914F;
+}
+
+.projects a:visited {
+  text-decoration: none;
+  color:#955E42;
+}
+
+.projects a:visited p {
+  text-decoration: none;
+  color: #9C914F;
+}
+
+.projects a:hover {
   text-decoration: none;
 }
 
-a:hover {
-  text-decoration: none;
-}
-
-a:active {
+.projects a:active {
   text-decoration: none;
 }
 
