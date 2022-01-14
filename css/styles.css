@@ -34,22 +34,51 @@ img {
 }
 
 .projects {
-
+width: 90%;
+text-align: center;
 }
 
-.projects-col {
-  column-count: 7;
-  column-width: 100px;
-  column-fill: auto;
-  
+.projects-con h5 {
+  font-size: xx-large;
+  margin-top: 10px;
 }
 
+.projects-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.project-card {
+  border: 5px solid #553739;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 5px;
+  width: 30%;
+}
+
+.project-card h5 {
+  text-align: center;
+}
 .sidebar {
   float: right;
   width: 50px;
 }
 
-a {
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
   text-decoration: none;
 }
 
