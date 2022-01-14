@@ -1,3 +1,10 @@
 body {
   margin: 50px;
+  background-color: #5CDB95;
+  color: #D9381E;
+}
+
+img {
+  width: 300px;
+  height: auto;
 }
