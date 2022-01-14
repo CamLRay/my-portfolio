@@ -1,12 +1,14 @@
 body {
-  margin: 50px;
+  margin: 75px;
   background-color: #232020;
   color: #9C914F;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
   color: #553739;
-  width: 30%;
+  padding: 0px;
+  margin-top: 0px;
 }
 
 .headshot {
@@ -21,3 +23,19 @@ img {
   height: auto;
 }
 
+.headline {
+  column-count: 2;
+  
+}
+
+.headline p {
+  font-size: 25px;
+  color: #748E54;
+}
+
+.projects {
+  background-color: #955e42;
+  margin: 50px;
+  border-radius: 10px;
+
+}
