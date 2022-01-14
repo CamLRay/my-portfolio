@@ -5,8 +5,8 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
-  color: #553739;
+h1, h2, h3, h4 {
+  color: #955E42;
   padding: 0px;
   margin-top: 0px;
 }
@@ -14,7 +14,7 @@ h1 {
 .headshot {
   float: left;
   margin: 20px 40px 20px 0px;
-  border: 10px solid #955E42;
+  border: 10px solid #553739;
   border-radius: 10px;
 }
 
@@ -34,8 +34,10 @@ img {
 }
 
 .projects {
-  background-color: #955e42;
-  margin: 50px;
-  border-radius: 10px;
 
+}
+
+.sidebar {
+  float:right;
+  width: 50px;
 }
