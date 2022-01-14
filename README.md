@@ -29,6 +29,7 @@ _This webpage exists to act as a portfolio for future projects developed by Came
 
 ## License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 _MIT license_
 _Feel free to contact me here with ideas. You may also make contributions to the code._ 
 
