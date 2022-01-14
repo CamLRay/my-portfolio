@@ -18,10 +18,10 @@ _This webpage exists to act as a portfolio for future projects developed by Came
 
 * _Option 1: Download ZIP file and extract to desktop. Open landing page by launching index.html in the directory_
 * _Option 2: Clone the repository_
-* _Clone the repository using your terminal and the command $git clone https://github.com/Sploob/my-portfolio.git _
+* _Clone the repository using your terminal and the command $git clone https://github.com/Sploob/my-portfolio.git_
 * _Once cloned open the webpage by clicking on the index.html file_
-* _alternatively edit the code in your IDE by navigating to the my-first-webpage directory using [#cd my-portfolio] and the command [$code .]_
-*_Option 3: View the webpage in git hub pages at the link sploob.github.io/my-portfolio_
+* _alternatively edit the code in your IDE by navigating to the my-first-webpage directory using $cd my-portfolio and the command $code ._
+*_Option 3: View the webpage in git hub pages at the [GH-Pages link](sploob.github.io/my-portfolio)_
 
 ## Known Bugs
 
