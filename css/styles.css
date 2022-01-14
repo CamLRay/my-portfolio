@@ -1,12 +1,12 @@
 body {
   margin: 75px;
-  background-color: #232020;
-  color: #9C914F;
+  background-color: white;
+  color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 h1, h2, h3, h4 {
-  color: #955E42;
+  color: black;
   padding: 0px;
   margin-top: 0px;
 }
@@ -14,7 +14,7 @@ h1, h2, h3, h4 {
 .headshot {
   float: left;
   margin: 20px 40px 20px 0px;
-  border: 10px solid #553739;
+  border: 10px solid black;
   border-radius: 10px;
 }
 
@@ -24,14 +24,16 @@ img {
 }
 
 .headline {
-  column-count: 2;
-  
+  background-color: grey;
+  margin: -75px -75px 10px -75px;
+  padding: 50px 50px 1px 50px;
 }
 
 .headline p {
   font-size: 25px;
-  color: #748E54;
+  color: black;
 }
+
 
 .projects {
 width: 90%;
@@ -54,12 +56,12 @@ text-align: center;
 }
 
 .project-card {
-  border: 5px solid #553739;
+  border: 5px solid black;
   border-radius: 10px;
   margin: 10px;
   padding: 5px;
-  width: 30%;
-  background-color: #88725e;
+  width: 350px;
+  background-color: rgba(78, 78, 78, 0.329);
 }
 
 .project-card h5 {
@@ -67,12 +69,13 @@ text-align: center;
 }
 .sidebar {
   float: right;
-  width: 50px;
+  width: 75px;
+  background-color: rgba(78, 78, 78, 0.329);
 }
 
 a:link {
   text-decoration: none;
-  color:#955E42;
+  color:black;
 }
 
 .projects a {
@@ -80,17 +83,17 @@ a:link {
 }
 .projects a:link p {
   text-decoration: none;
-  color: #9C914F;
+  color: black;
 }
 
 .projects a:visited {
   text-decoration: none;
-  color:#955E42;
+  color:black;
 }
 
 .projects a:visited p {
   text-decoration: none;
-  color: #9C914F;
+  color: black;
 }
 
 .projects a:hover {
