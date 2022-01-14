@@ -37,8 +37,15 @@ img {
 
 }
 
+.projects-col {
+  column-count: 7;
+  column-width: 100px;
+  column-fill: auto;
+  
+}
+
 .sidebar {
-  float:right;
+  float: right;
   width: 50px;
 }
 
