@@ -1,10 +1,23 @@
 body {
   margin: 50px;
-  background-color: #5CDB95;
-  color: #D9381E;
+  background-color: #232020;
+  color: #9C914F;
+}
+
+h1 {
+  color: #553739;
+  width: 30%;
+}
+
+.headshot {
+  float: left;
+  margin: 20px 40px 20px 0px;
+  border: 10px solid #955E42;
+  border-radius: 10px;
 }
 
 img {
   width: 300px;
   height: auto;
 }
+
