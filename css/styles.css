@@ -59,6 +59,7 @@ text-align: center;
   margin: 10px;
   padding: 5px;
   width: 30%;
+  background-color: #88725e;
 }
 
 .project-card h5 {
@@ -74,6 +75,9 @@ a:link {
   color:#955E42;
 }
 
+.projects a {
+  transition: transform .2s;
+}
 .projects a:link p {
   text-decoration: none;
   color: #9C914F;
@@ -91,6 +95,7 @@ a:link {
 
 .projects a:hover {
   text-decoration: none;
+  transform: scale(1.05);
 }
 
 .projects a:active {
