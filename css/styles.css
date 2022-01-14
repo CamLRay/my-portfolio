@@ -32,8 +32,13 @@ img {
 .headline p {
   font-size: 25px;
   color: black;
+  width: 50%;
 }
 
+.headline h1 {
+  color: black;
+  width: 30%;
+}
 
 .projects {
 width: 90%;
@@ -67,10 +72,17 @@ text-align: center;
 .project-card h5 {
   text-align: center;
 }
+
 .sidebar {
   float: right;
-  width: 75px;
   background-color: rgba(78, 78, 78, 0.329);
+  margin-right: -75px;
+  margin-top: -10px;
+  padding: 10px;
+}
+
+.sidebar img {
+  width: 70px;
 }
 
 a:link {
