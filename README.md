@@ -9,10 +9,11 @@
 * _HTML_
 * _CSS_
 * _Git_
+* _Bootstrap 4.5_
 
 ## Description
 
-_This webpage exists to act as a portfolio for future projects developed by Cameron Ray and contributors during his enrollment in the Epicodus intro to programming class._
+_This webpage exists to act as a portfolio for future projects developed by Cameron Ray and contributors during his enrollment in the Epicodus intro to programming class. The page utlizes project specific css for the My Projects section. The About me and Below uses the Bootstrap 4.5 framework._
 
 ## Setup/Installation Requirements
 
