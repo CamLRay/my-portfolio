@@ -45,6 +45,10 @@ width: 90%;
 text-align: center;
 }
 
+.projects h2 {
+  font-size: 4em;
+}
+
 .projects-con h5 {
   font-size: xx-large;
   margin-top: 10px;
@@ -119,4 +123,10 @@ a:link {
 
 .highlight {
   color: palevioletred;
+  font-size:x-large;
+  font-weight: bold;
+}
+
+.box-1 {
+  padding:10px 25px 10px 25px;
 }
